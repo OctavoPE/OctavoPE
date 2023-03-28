@@ -1,4 +1,4 @@
-# Hi! :wave::smiley:
+# Hello! Welcome to my page! :wave::smiley:
 
 
 ![Jeanmarco's GitHub stats](https://github-readme-stats.vercel.app/api?username=OctavoPE&theme=radical&show_icons=true)
