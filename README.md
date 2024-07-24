@@ -12,7 +12,6 @@ Student @ [University of Utah](https://www.utah.edu/)
 
 <br>
 <br>
-<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=octavope&theme=react-dark&bg_color=20232a&hide_border=true" />
   
