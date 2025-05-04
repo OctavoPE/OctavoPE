@@ -2,7 +2,7 @@
 <h3>Hello there 🫡 </h3>
 <h4>Software developer building automation tools and desktop applications 👾 </h4>
 
-Student @ [University of Utah](https://www.utah.edu/)
+Software Development B.S. from the University of Utah
 
 <p>
   ⚙️ Experience in: <code>C++</code>, <code>C#</code>, <code>Python</code>, <code>JS</code>
